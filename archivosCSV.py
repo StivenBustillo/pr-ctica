@@ -23,3 +23,4 @@ for x in lista:
 doc.close()
 
 #ésta es la prueba
+#mensaje para generar conflicto. Cuando varias personas modifican la misma linea.
